@@ -4,17 +4,20 @@
 **Campaign context (from `README.md`):** SEO = 2027–2028 booking push · Engagement/Ads = $5,000 winter wedding deal · 2027–28 booking · Fall Fest (9/26/26)
 **Brand filter applied:** Every post below was checked against `BRANDGUIDE.md` — the Elena Stone persona, "confident but warm" voice, and the four values (modern romance, clean aesthetics, personalization, flawless execution). See the Brand-Check Log at the bottom of this document.
 
-> **⚠️ Two sourcing gaps in this run — read before using for paid/SEO decisions:**
-> 1. **Ryze AI (Google Search Console + Google Ads) was not accessible this session** — it's installed at the org level but not enabled in this chat, so steps 6–7 of the standard process (pulling actual top-performing/rising queries and Ads keyword data) could not run. The keyword shortlist below is a **directional substitute** built from the README's stated priorities, the venue's service area, and general SEO judgment — not real GSC/Ads query data. Recommend re-running keyword sourcing manually before this calendar goes into paid promotion, and enabling the Ryze AI connector for this chat before next month's run.
-> 2. **Inspiration links are sourced via web search**, not an in-platform Instagram/TikTok scrape (Claude Code has no native platform search). Most links below are real, live accounts/posts I could verify through search; a few are trend-reference articles rather than a single specific post, flagged inline. Worth a gut-check from the team per the setup notes.
+> **Update (2026-08-14, follow-up pass):** Ryze AI (Google Search Console + Google Ads) was reachable in this pass, so the keyword shortlist below has been replaced with real query/volume data — sourcing gap #1 from the original run is resolved. See the updated shortlist and validation note directly below.
+>
+> **⚠️ One sourcing gap remains — read before using for paid/SEO decisions:**
+> 1. **Inspiration links are sourced via web search**, not an in-platform Instagram/TikTok scrape (Claude Code has no native platform search). Most links in the calendar below are real, live accounts/posts I could verify through search; a few are trend-reference articles rather than a single specific post, flagged inline. Worth a gut-check from the team per the setup notes.
 
 ---
 
-## Keyword shortlist (directional — see sourcing gap #1 above)
+## Keyword shortlist (real data — GSC + Google Ads, pulled 2026-08-14)
 
-Built from README campaign priorities + service area (Onondaga/Oswego County, Central NY, 50-mile radius of Syracuse) + brand pillars. Woven naturally, not forced:
+**Google Search Console** (`thefoundryoswego.com`, trailing 90 days) — top non-branded queries with real click/impression activity: `oswego wedding venue` · `wedding venues oswego ny` · `wedding venues near me` · `fall wedding venues` · `engagement picture places` · `wedding venue oswego ny` · `event spaces` · `banquet halls near me`
 
-`wedding venue near Syracuse NY` · `Central New York wedding venue` · `Onondaga County wedding venue` · `2027 wedding venue` · `2028 wedding date` · `fall wedding venue Upstate NY` · `$5,000 wedding package` · `wedding venue open house` · `Oswego County event venue`
+**Google Ads Keyword Planner** (The Foundry Oswego account, USA/English) — highest-volume relevant terms: `wedding venue syracuse ny` (1,000 avg. monthly searches, medium competition) · `syracuse wedding venues` (1,000) · `fall wedding venue` (880, low competition) · `autumn wedding venues` (880, low) · `fall wedding locations` (880, low) · `central ny wedding venues` (170, medium) · `fall wedding venues near me` (210, high competition) · `october wedding venues` (70) · `november wedding venues` (70) · `winter wedding package` (50, low) · `winter wedding deals` (50, low) · `winter wedding specials` (10, medium)
+
+**Validation against the calendar below:** the directional shortlist used when this calendar was first drafted holds up well — "fall wedding venue," "Central New York wedding venue," and "Syracuse wedding venue" phrasing (posts #1, #3, #6, #9, #11) all map to genuine 1,000 / 880 / 170-searches-per-month terms rather than guesses, so no caption rewrites are needed on that front. Two phrases don't hold up as literal SEO keywords, though: `2027 wedding venue` / `2028 wedding date` (posts #1, #11) show no real search volume — they're README campaign phrasing, best read as messaging pillars, not query targets — and `$5,000 wedding package` (posts #5, #12) isn't a real query either; `winter wedding package` / `winter wedding deals` are the closer real-query equivalents and are already close in spirit to what's written. `engagement picture places`, a real (if low-volume) GSC query tied to proposal season, isn't used anywhere in this month's captions and is worth a slot in a future proposal-season post.
 
 ---
 
